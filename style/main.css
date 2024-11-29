@@ -19,9 +19,20 @@ body {
 
 */
 
+a {
+     text-decoration: none;
+}
+
 fieldset {
             border: none;
 }
+
+/* 
+   ########################
+          General END
+   ######################
+
+*/
 
 /* 
 ####################
@@ -204,5 +215,9 @@ footer {
              height: 200px;
              padding: 10%;
               text-align: center;
+}
+footer p {  
+               width: 40%;
+               margin: 5px 0 0 296px;
 }
 
