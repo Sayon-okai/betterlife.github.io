@@ -227,3 +227,36 @@ footer p {
                   margin: 0 0 -5px 0;
 }
 
+
+
+/* 
+   ##################################
+          ABout US page CSS
+   ###############################
+
+*/
+
+.about-us {
+            margin-top: 127px;
+}
+
+.no-bg {
+           background: none;
+}
+
+.h-main-bg {
+            background: url(../assets/images/header-bg.gif);
+           background-repeat: no-repeat;
+           background-size: cover;
+           border-radius: 64px;
+           color: rgb(255, 255, 255);             
+}
+
+.bfc-about {
+              font-size: 1.5em;
+              margin: 0 0 35px 0;
+}
+
+.about-us p {
+               
+}
