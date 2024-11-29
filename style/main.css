@@ -21,6 +21,7 @@ body {
 
 a {
      text-decoration: none;
+     
 }
 
 fieldset {
@@ -218,6 +219,11 @@ footer {
 }
 footer p {  
                width: 40%;
-               margin: 5px 0 0 296px;
+               margin: 10px 0 0 299px;
+               color: rgb(0, 0, 0);
+}
+
+.nav-footer {
+                  margin: 0 0 -5px 0;
 }
 
