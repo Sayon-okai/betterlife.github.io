@@ -339,6 +339,7 @@ footer p {
 
 .donate-main {
                  margin-bottom: -2vh;
+                 
 }
 
 /* btn */
@@ -346,6 +347,15 @@ footer p {
 #login #signup {
             width: 75%;
 }
+#login a {
+             text-decoration: none;
+              color: antiquewhite;
+}
+ #signup a {
+                text-decoration: none;
+                color: antiquewhite;
+}
+
 
 /* Reset Link */
 .reset a {
@@ -357,5 +367,7 @@ footer p {
 /* Signin to donate */
 #signin-donate {
                  margin-top: 15vh;
+                 margin-left: -5%;
+
 }
 
