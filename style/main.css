@@ -34,7 +34,11 @@ fieldset {
    ######################
 
 */
+         /* no-border remove border from element */
 
+         #no-border {
+                        border: none;
+         }
 /* 
 ####################
 Header block start
@@ -336,3 +340,22 @@ footer p {
 .donate-main {
                  margin-bottom: -2vh;
 }
+
+/* btn */
+
+#login #signup {
+            width: 75%;
+}
+
+/* Reset Link */
+.reset a {
+             text-decoration: none;
+             color: antiquewhite;
+             
+}
+
+/* Signin to donate */
+#signin-donate {
+                 margin-top: 15vh;
+}
+
