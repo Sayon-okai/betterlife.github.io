@@ -116,7 +116,7 @@ ul li {
 
 main {
          width: 100%;
-         height: 799px;
+         height: auto;
         display: flex;
         flex-wrap: wrap;
         
@@ -231,7 +231,7 @@ footer p {
 
 /* 
    ##################################
-          ABout US page CSS
+          ABout US page self CSS
    ###############################
 
 */
@@ -275,4 +275,10 @@ footer p {
 .card img {
              width: 100%;
              height: 300px;
+}
+
+.our-mission {
+               width: 100%;
+               height: auto;
+               
 }
