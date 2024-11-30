@@ -280,5 +280,5 @@ footer p {
 .our-mission {
                width: 100%;
                height: auto;
-               
+               display: flex;
 }
