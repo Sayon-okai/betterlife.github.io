@@ -215,13 +215,14 @@ footer {
              width: 100%;
              height: 200px;
              padding: 5%;
-             margin-left: 10px;
-             margin-right: 10px;
+             justify-content: center;
+             /* margin-left: 10px;
+             margin-right: 10px; */
               text-align: center;
 }
 footer p {  
-               width: 40%;
-               margin: 10px 0 0 299px;
+               width: 50%;
+               margin: 10px 0 0 280px;
                color: rgb(0, 0, 0);
 }
 
@@ -278,7 +279,7 @@ footer p {
              width: 100%;
              height: 300px;
 }
-
+/* Our Mission Section */
 .our-mission {
                margin: 100px 10px 15px 10px;
                padding: 25px;
@@ -288,16 +289,33 @@ footer p {
                justify-content: space-between;
                
 }
+.our-mission div {
+                    text-align: center;
+               
+}
 
-.mission-text {
+#mission-text {
                  display: block;
                  margin-top: 50vh;
-                 margin-left: 40%;
+                 margin-left: 35%;
+                 width: 25rem;
+                 height: auto;
+                 font-size: 2em;
+                 color: #fff;
 }
 
+#mission-text a {
+                
+                 color: #fff;
+                 text-decoration: none;
+}
+
+
+/* Footer block about page */
 .nav-footer-about ul li a {
                      color: blue;
+
 }
 .nav-footer-about {
-                     margin-top: -55px;
+                     margin-top: -40px;
 }
