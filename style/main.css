@@ -278,6 +278,7 @@ footer p {
 }
 
 .our-mission {
+               margin: 275px 0 0 60px;
                width: 100%;
                height: auto;
                display: flex;
