@@ -302,6 +302,8 @@ footer p {
                  height: auto;
                  font-size: 2em;
                  color: #fff;
+                 border-top-left-radius: 40px;
+                 border-bottom-right-radius: 40px;
 }
 
 #mission-text a {
