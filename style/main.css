@@ -371,3 +371,36 @@ footer p {
 
 }
 
+
+/* 
+      #############################################
+               Contact Page CSS
+      #############################################
+
+*/
+
+#feed {
+         width: 100%;
+         padding: none;
+         margin: 20px 0 250px 220px;
+}
+
+/* Feedback box  */
+
+#feedback {
+            width: 60%;
+            height: auto;
+            resize: none;
+            background: none;
+}
+#feedback::placeholder {
+            color: #fff;
+            font-family: 'Courier New', Courier, monospace;
+            font-size: large;
+}
+
+/* Feedback submit button */
+
+#btn-submit {
+               width: 60%;
+}
