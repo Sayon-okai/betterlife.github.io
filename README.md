@@ -13,5 +13,4 @@
 
  # Author 
      - Noami Noahn -- ID# 
- # Co Author 
-    - Sayon T. Okai 
+

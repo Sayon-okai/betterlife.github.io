@@ -9,7 +9,7 @@
 
      <!-- Bootstrap ICON CDN link  -->
      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-    <title>Home</title>
+    <title>Contact US</title>
 </head>
 <body>
     <header>
@@ -33,26 +33,26 @@
     <!-- Main -->
    <main>
      
-        <!-- Welcome section end  -->
+      
         <section class="newsletter " id="feed" >
-            <!-- Newsletter Block -->
+            <!-- Classes and ID are inherit from other pages-->
              
-               <form action="">
+               <form action="index.html">
                      <fieldset>
                         <legend><h3>Please send Feedback</h3></legend>
                         <p>
                             <!-- Full name block --> 
-                            <input type="text" id="full_name" placeholder="eg: Prince Okai">
+                            <input type="text" id="full_name" placeholder="eg: Prince Okai" required>
                         </p>                
                         <p>
                              <!-- email block -->
                             <!-- <label for="email"> Email: </label> -->
-                            <input type="text" id="email" placeholder="eg: noahnoami@gmail.com">
+                            <input type="text" id="email" placeholder="eg: noahnoami@gmail.com" required>
 
                         </p>
                         <p>
                             <!-- Feedback textarea  -->
-                            <textarea name="feedback" id="feedback" cols="40" rows="10" placeholder="Write Feedback here"></textarea>
+                            <textarea name="feedback" id="feedback" cols="40" rows="10" placeholder="Write Feedback here" required></textarea>
                         </p>
                                <button type="submit" class="btn btn-warning" id="btn-submit">Send Feedback </button>
                      </fieldset>

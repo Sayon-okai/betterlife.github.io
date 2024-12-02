@@ -421,3 +421,7 @@ footer p {
 .margin-top-only {
          margin-top: -2vh;
 }
+
+.margin-down {
+   margin-bottom: 50vh;
+}
