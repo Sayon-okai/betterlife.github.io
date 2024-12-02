@@ -395,6 +395,7 @@ footer p {
 }
 #feedback::placeholder {
             color: #fff;
+            background-color: chocolate;
             font-family: 'Courier New', Courier, monospace;
             font-size: large;
 }
@@ -403,4 +404,5 @@ footer p {
 
 #btn-submit {
                width: 60%;
+               border-top-left-radius: 40%;
 }
