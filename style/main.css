@@ -28,6 +28,9 @@ fieldset {
             border: none;
 }
 
+.heading-3 {
+               margin: 2px 0 10px 5px;
+}
 /* 
    ########################
           General END
@@ -405,4 +408,16 @@ footer p {
 #btn-submit {
                width: 60%;
                border-top-left-radius: 40%;
+}
+
+
+/* 
+      #############################################
+               Donor Page CSS
+      #############################################
+
+*/
+
+.margin-top-only {
+         margin-top: -2vh;
 }
